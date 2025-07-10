@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.4",
+    "stylelint-config-tailwindcss": "^1.0.0",
+    "tailwindcss": "^4.1.8"
+  }
+}
